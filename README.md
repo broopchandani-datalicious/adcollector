@@ -1,1 +1,0 @@
-<ins class='dcmads' style='display:inline-block;width:468px;height:60px' data-dcm-placement='N766511.3387110ADCOLLECTOR/B21525664.226336553' data-dcm-rendering-mode='iframe' data-dcm-https-only data-dcm-resettable-device-id='' data-dcm-app-id=''> <script src='https://www.googletagservices.com/dcm/dcmads.js'></script> </ins>
